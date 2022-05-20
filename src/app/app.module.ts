@@ -10,6 +10,7 @@ import { ProductsComponent } from './products/products.component';
 import { BannerComponent } from './banner/banner.component';
 import { FooterComponent } from './footer/footer.component';
 import { NewslettersComponent } from './newsletters/newsletters.component';
+import { Banner2Component } from './banner2/banner2.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { NewslettersComponent } from './newsletters/newsletters.component';
     ProductsComponent,
     BannerComponent,
     FooterComponent,
-    NewslettersComponent
+    NewslettersComponent,
+    Banner2Component
   ],
   imports: [
     BrowserModule,
