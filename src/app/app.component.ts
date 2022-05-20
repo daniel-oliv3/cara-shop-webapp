@@ -11,9 +11,6 @@ import { Component } from '@angular/core';
 export class AppComponent {
 
   //...
-  lista_nomes: string[] = [
-    'Daniel', 'Priscila', 'Jojob'
-  ];
 
   }
 
